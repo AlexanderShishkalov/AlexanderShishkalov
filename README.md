@@ -1,6 +1,5 @@
 ### Hi there, i'm Alexander Shishkalov! 👋
-<!--
-## 
+
 - 🔭 I’m currently working on Pet project
 
 <br />
@@ -21,10 +20,11 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlexanderShishkalov&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderShishkalov&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderShishkalov)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
+&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake
 **AlexanderShishkalov/AlexanderShishkalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
